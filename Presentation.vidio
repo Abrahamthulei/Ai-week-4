@@ -1,0 +1,61 @@
+
+[Slide 1: Title]
+
+> "Hi everyone, I’m Abraham Thulei, and this is my Week 4 submission for the Power Learn Project on Building Intelligent Software Solutions."
+
+
+
+
+
+[Slide 2: Task Overview]
+
+> "The assignment covers theoretical analysis, practical coding, and ethical considerations of using AI in software engineering."
+
+
+
+
+
+
+[Slide 3: Task 1 – Code Completion]
+
+> "I used GitHub Copilot to generate a function that sorts a list of dictionaries. Compared to my manual code, Copilot's version was more robust, using .get() to handle missing keys."
+
+
+
+
+
+[Slide 4: Task 2 – Test Automation]
+
+> "Using Testim.io, I automated login testing. AI features like smart locators helped adapt to UI changes and saved time. Here’s the result screenshot."
+
+
+
+
+[Slide 5: Task 3 – Predictive Analytics]
+
+> "I trained a Random Forest model on the Kaggle Breast Cancer dataset. It achieved 96% accuracy in classifying issue priority. This simulates intelligent resource allocation in project planning."
+
+
+
+
+
+[Slide 6: Ethical Reflection]
+
+> "Bias in data can affect predictions. I explored how IBM AI Fairness 360 could help detect and reduce such bias, ensuring fair and inclusive software."
+
+
+
+
+
+[Slide 7: Bonus Innovation]
+
+> "Finally, I proposed DocuGenAI—an AI that generates documentation automatically. It helps maintain clean, readable, and well-documented codebases."
+
+
+
+
+
+[Slide 8: Conclusion]
+
+> "Thanks for watching! You can find my code on GitHub at Abrahamthulei. Let’s build smarter software together!
+
