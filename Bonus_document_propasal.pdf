@@ -1,0 +1,33 @@
+# DocuGenAI – Intelligent Documentation Assistant
+
+## Problem
+Developers often skip writing documentation, leaving codebases hard to maintain and onboard.
+
+## Solution
+DocuGenAI automatically generates:
+- Docstrings for classes/functions
+- README files
+- Flowcharts from logic
+- API usage summaries
+
+## Workflow
+1. Parse source code using AST
+2. Analyze commit history
+3. Use LLM to generate descriptions
+4. Output markdown and Graphviz diagrams
+
+## Tools
+- GitHub Copilot
+- OpenAI Codex
+- Graphviz
+- Python AST parser
+
+## Impact
+- Saves developer time
+- Enhances code readability
+- Improves team onboarding
+
+## Target Users
+- Agile teams
+- Open-source maintainers
+- DevOps engineers
