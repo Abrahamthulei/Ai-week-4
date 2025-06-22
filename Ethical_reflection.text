@@ -1,0 +1,5 @@
+Bias in predictive models can result from underrepresented teams or skewed datasets. For example, if historical issue data only reflects certain departments, the model may prioritize based on that bias.
+
+IBM AI Fairness 360 offers fairness metrics like disparate impact and bias mitigation techniques like reweighing, helping ensure equitable outcomes across user groups.
+
+Deploying fair AI systems builds trust and avoids unethical decision-making in software management.
