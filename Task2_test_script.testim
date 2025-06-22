@@ -1,0 +1,7 @@
+[Testim AI Test Plan]
+Test Case: Login Functionality
+Steps:
+1. Navigate to login page
+2. Enter valid credentials → expect success
+3. Enter invalid credentials → expect error message
+AI Plugin: Testim Smart Locators
